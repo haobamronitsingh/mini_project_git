@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    padding: 20px;    
+
+}
+
+
+a{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(71, 117, 231);
+    margin: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+}
+

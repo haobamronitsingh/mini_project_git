@@ -1,0 +1,98 @@
+body{
+
+    margin: 0%;
+    background-color: aquamarine ;
+}
+
+/* .container{
+    
+    padding-top: 1rem;
+    background-color: aquamarine;
+} */
+
+h1{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.form{
+    
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding: 3%;
+    background-color:white;
+}
+
+
+
+
+.uname input{
+
+    padding-right: 35rem;
+    padding-bottom: .5rem;
+}
+
+.email {
+    margin-top: 1rem;
+    
+}
+
+.email input{
+
+    padding-right: 35rem;
+    padding-bottom: .5rem;
+}
+
+.age{
+    margin-top: 1rem;
+}
+.age input{
+    padding-right: 35rem;
+    padding-bottom: .5rem;
+}
+
+.select{
+    margin-top: 1rem ;
+}
+.select select{
+    padding-right: 40rem;
+    padding-bottom: .5rem;
+}
+/* .select select option{
+    margin-top: 1rem;
+    background-color: white; 
+} */
+.sec option{
+    padding: 1rem;
+}
+.radio{
+    margin-top: 1rem;
+}
+
+.check{
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+}
+
+.comment{
+    margin-top: 1rem;
+}
+.comment p{
+    font-size: 1rem;
+}
+.comment textarea{
+    padding-right: 35rem ;
+    padding-bottom: 5rem;
+}
+
+.submit input{
+    
+    background-color: green;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 50%;
+    padding-right: 45%;
+    font-size: 1rem;
+
+}
