@@ -17,6 +17,9 @@ h1{
 
 .form{
     
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
     margin-top: 2rem;
     margin-left: 2rem;
     margin-right: 2rem;
@@ -28,9 +31,10 @@ h1{
 
 
 .uname input{
-
-    padding-right: 35rem;
+    
+    width: 100%;
     padding-bottom: .5rem;
+    
 }
 
 .email {
@@ -39,8 +43,7 @@ h1{
 }
 
 .email input{
-
-    padding-right: 35rem;
+    width: 100%;
     padding-bottom: .5rem;
 }
 
@@ -48,7 +51,7 @@ h1{
     margin-top: 1rem;
 }
 .age input{
-    padding-right: 35rem;
+    width: 100%;
     padding-bottom: .5rem;
 }
 
@@ -56,8 +59,8 @@ h1{
     margin-top: 1rem ;
 }
 .select select{
-    padding-right: 40rem;
-    padding-bottom: .5rem;
+    width: 100%;
+    padding-bottom: .5rem;;
 }
 /* .select select option{
     margin-top: 1rem;
@@ -82,7 +85,7 @@ h1{
     font-size: 1rem;
 }
 .comment textarea{
-    padding-right: 35rem ;
+    width: 100%;
     padding-bottom: 5rem;
 }
 
@@ -91,8 +94,8 @@ h1{
     background-color: green;
     padding-top: .5rem;
     padding-bottom: .5rem;
-    padding-left: 50%;
-    padding-right: 45%;
+    width: 100%;
+    
     font-size: 1rem;
 
 }
